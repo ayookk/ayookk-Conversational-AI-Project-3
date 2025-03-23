@@ -1,0 +1,7 @@
+Transcript:
+I hope you have a good wonderful day. Thanks.
+
+Sentiment Analysis:
+Sentiment: Positive
+Score: 0.80
+Magnitude: 1.70

@@ -1,0 +1,7 @@
+Transcript:
+Today was a very bad day for me.  Okay.
+
+Sentiment Analysis:
+Sentiment: Neutral
+Score: -0.20
+Magnitude: 1.20

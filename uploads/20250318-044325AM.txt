@@ -1,0 +1,5 @@
+Transcript:
+Error processing audio: 400 sample_rate_hertz `16000` in RecognitionConfig must either be unspecified or match the value in the WEBM OPUS header `48000`.
+
+Sentiment Analysis:
+Error in sentiment analysis
