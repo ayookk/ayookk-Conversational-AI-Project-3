@@ -1,3 +1,4 @@
+APP URL: https://conversational-ai-app-261646067666.us-central1.run.app/  
 📢 Conversational AI Project 3: Multimodal Audio Analysis with Google Cloud LLM
 This project is a voice-based AI application designed to process and analyze user-recorded audio files using Google Cloud's multimodal large language model (LLM) APIs. It builds on Project II by simplifying the architecture — replacing multiple individual APIs with a single LLM endpoint that handles both transcription and sentiment analysis in one call.
 
